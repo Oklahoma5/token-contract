@@ -1,1 +1,11 @@
+{
+  "name": "OPG PENGU",
+  "symbol": "OPGP",
+  "decimals": 9,
+  "address": "EQBhV0HAOA8bCdAJ4PRaSeguc2_tYAZ3qqRkrYgPwp9lAeT3",
+  "description": "Meme-token powered by the Telegram penguin mafia. Built for community, chaos and cold-blooded holders 🐧",
+  "social": {
+    "telegram": "https://t.me/opg_pengu"
+  }
+}
 
